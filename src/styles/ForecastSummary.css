@@ -1,0 +1,21 @@
+.forecast-summary {
+  text-align: center;
+  width: 15%;
+  margin-top: 1.5em;
+}
+
+.forecast-summary__description {
+  margin-bottom: 0.5em;
+}
+
+.forecast-summary button {
+  background-color: #00003c;
+  color: #fff;
+  border: 1px solid black;
+  border-radius: 5%;
+  padding: 0.3em;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: bold;
+}
